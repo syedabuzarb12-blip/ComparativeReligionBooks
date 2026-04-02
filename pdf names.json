@@ -1,14 +1,5 @@
 [
   {
-    "library": [
-      "A-Comparative-Study-of-Religions-Second-Edition-J-N-K-Mugambi.pdf",
-      "Al Ghazali Incoherence of the Philosophers.pdf",
-      "Islam-and-Christanity.pdf",
-      "Kellogg,+Samuel+Henry,+A+Handbook+of+Comparative+Religion.pdf",
-      "Noor-Book.com  الإسلام والأديان دراسة مقارنة 3 .pdf"
-    ]
-  },
-  {
     "library/atheism": [
       "AtheismIslam_ShoaibMalik.pdf",
       "en-islam-vs-atheism.pdf",
@@ -26,7 +17,8 @@
       "101 Contradictions In The Bible.pdf",
       "Answers to Born Again Preachers.pdf",
       "en-the-true-message-of-jesus-christ.pdf",
-      "Is The Trinity Doctrine Divinely Inspired.pdf"
+      "Is The Trinity Doctrine Divinely Inspired.pdf",
+      "Islam-and-Christanity.pdf"
     ]
   },
   {
@@ -114,7 +106,9 @@
   },
   {
     "library/social-questions": [
-      "FINAL_-Why-Do-People-Suffer_-Gods-Existence-the-Problem-of-Evil-2.pdf"
+      "FINAL_-Why-Do-People-Suffer_-Gods-Existence-the-Problem-of-Evil-2.pdf",
+      "Kellogg,+Samuel+Henry,+A+Handbook+of+Comparative+Religion.pdf",
+      "Noor-Book.com  الإسلام والأديان دراسة مقارنة 3 .pdf"
     ]
   }
 ]
